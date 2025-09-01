@@ -1,0 +1,8 @@
+IdentitiesFile yes   C:\Users\Surface\.ssh\id_ed25519.pub
+IdentitiesOnly yes
+
+Host github-test_proj
+    Hostname GitHub.com
+    User git
+    IdentityFile C:\Users\Surface\github\test_proj
+    IdentitiesOnly yes
